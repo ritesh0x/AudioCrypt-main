@@ -19,7 +19,7 @@
 
 ## 🖼️ GUI Preview
 
-![GUI Preview](docs/gui.png)
+![GUI Preview](gui.png)
 
 ---
 
