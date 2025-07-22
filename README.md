@@ -68,10 +68,6 @@ AudioCrypt/
 ├── requirements.txt
 ├── README.md
 ├── sample.wav
-└── docs/
-    ├── index.html
-    ├── usage.html
-    └── styles.css
 ```
 
 ---
