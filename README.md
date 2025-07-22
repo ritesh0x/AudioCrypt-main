@@ -8,9 +8,9 @@
 
 - 🔐 AES-256 encryption (CBC mode)
 - 🎧 LSB-based audio steganography
-- 🖥️ Dark-themed GUI built with Tkinter
+<!-- - 🖥️ Dark-themed GUI built with Tkinter -->
 - 🎛️ Optional Command Line Interface (CLI)
-- 🛠️ Auto folder creation for output
+<!-- - 🛠️ Auto folder creation for output -->
 - 🎵 Supports `.wav` files (planned: `.mp3` support via conversion)
 - 🧪 Real-time message embedding and extraction
 - 💬 Password protection for extra security
@@ -19,7 +19,7 @@
 
 ## 🖼️ GUI Preview
 
-![GUI Preview](docs/preview.png) *(Add your GUI screenshot here)*
+![GUI Preview](docs/gui.png)
 
 ---
 
